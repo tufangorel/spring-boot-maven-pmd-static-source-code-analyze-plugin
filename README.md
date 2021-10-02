@@ -1,0 +1,1 @@
+# spring-boot-maven-pmd-static-source-code-analyze-plugin
