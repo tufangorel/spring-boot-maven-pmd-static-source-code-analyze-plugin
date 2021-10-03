@@ -18,7 +18,7 @@ $ mvn clean jxr:jxr install <br/>
 [INFO] PMD Failure: service.unit.test.ProductServiceUnitTest:46 Rule:LocalVariableCouldBeFinal Priority:3 Local variable 'response' could be declared final. <br/>
 [INFO] PMD Failure: service.unit.test.ProductServiceUnitTest:48 Rule:LawOfDemeter Priority:3 Potential violation of Law of Demeter (object not created locally). <br/>
 [INFO] ------------------------------------------------------------------------ <br/>
-[INFO] BUILD FAILURE <br/>
+[INFO] BUILD FAILURE <br/> 
 [INFO] ------------------------------------------------------------------------ <br/>
 [INFO] Total time:  34.803 s <br/>
 [INFO] Finished at: 2021-10-02T15:28:18+03:00 <br/>
