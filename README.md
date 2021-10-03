@@ -1,8 +1,7 @@
 ## spring-boot-maven-pmd-static-source-code-analyze-plugin
 
-Purpose : Analyze java source code before generating final artifact in your IDE. <br/>
-Result : Get detailed report about coding style rule violations. <br/>
-
+Purpose : Analyze java source code statically at build time before generating final artifact in your IDE. <br/>
+Result : Get detailed report about coding issues such as dead code, empty blocks, unused imports etc. <br/>
 
 ### Local run steps <br/>
 1- To activate maven pmd plugin run the following maven command : <br/>
